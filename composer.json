@@ -12,7 +12,8 @@
         "php": ">=7.0.0"
     },
     "require-dev": {
-        "php-ds/tests": "^1.1"
+        "php-ds/tests": "^1.1",
+        "phpstan/phpstan": "^0.6.4"
     },
     "suggest": {
         "ext-ds": "to improve performance and reduce memory usage"
